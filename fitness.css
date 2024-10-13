@@ -1,0 +1,116 @@
+body{
+    background-image: url(./fitness.avif);
+    background-size: cover;
+}
+h1{
+    font-size: 30px;
+    color: azure;
+    display: inline-block;
+}
+.head{
+    display: inline-block;
+    margin-left: 800px;
+    
+}
+li {
+    display: inline-block;
+    color: azure;
+    font-size: 20px;
+    margin-right: 70px;
+    background-color: orangered;
+    padding: 5px;
+    border: 2px solid;
+    border-color: beige;
+    border-radius: 5px;
+
+}
+.com{
+    font-size: 60px;
+    color: azure;
+    position: relative;
+    top: 70px;
+    left: 20px;
+}
+.wors{
+    color: orangered;
+    font-size: 70px;
+    position: relative;
+    top:40px;
+    left: 20px;
+}
+.wor{
+    font-size: 70px;
+    position: relative;
+    top:40px;
+    left: 25px;
+    
+}
+p{
+    color: azure;
+}
+button{
+    padding: 3px;
+    color: azure;
+    background-color:black;
+    border: 3px solid;
+    border-radius: 10px;
+    border-color:orangered;
+    margin-top: 40px;
+  margin-left: 50px;
+
+}
+
+
+
+
+.img1,img{
+    display: inline-block;
+    background-color: blue;
+height: 200px;
+width: 200px;
+transition: 1s;
+margin-right: 50px;
+}
+.img1:hover{
+    background-color: chartreuse;
+    transform: scale(2,2);
+}
+/* img 2 */
+.img2 {
+    display: inline-block;
+    background-color: blue;
+height: 200px;
+width: 200px;
+transition: 1s;
+margin-right: 50px;
+
+}
+.img2:hover{
+    background-color: rgb(139, 139, 0);
+    transform: scale(2,2);
+}
+/* img 3 */
+
+.img3 {
+    display: inline-block;
+    background-color: blue;
+height: 200px;
+width: 200px;
+transition: 1s;
+}
+.img3:hover{
+    background-color: rgb(204, 210, 197);
+    transform: scale(2,2);
+}
+
+
+
+.cov{
+    margin-left: 300px;
+    margin-bottom: 100px;
+}
+
+/* rahul */
+.ra{
+    text-align: left 600px;
+}
